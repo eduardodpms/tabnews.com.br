@@ -349,4 +349,5 @@ export default Object.freeze({
   canRequest,
   filterOutput,
   filterInput,
+  validateUser,
 });
